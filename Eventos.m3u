@@ -1,8 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",17:00 - Liga Profesional: Estudiantes vs Defensa y Justicia
-https://streamtp22.com/global1.php?stream=espnpremium
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",19:00 - Liga Profesional: Belgrano vs Newell's Old Boys
-https://streamtp22.com/global1.php?stream=tntsports
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",21:00 - Primera División: Deportivo Saprissa vs Pérez Zeledón
-https://streamtp22.com/global1.php?stream=futv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",11:00 - LaLiga: Athletic Club vs Girona
+https://streamtp22.com/global1.php?stream=espnplus1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",11:00 - LaLiga: Espanyol vs Valencia
+https://streamtp22.com/global1.php?stream=disney1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",13:10 - Primeira Liga: Benfica vs Rio Ave
+https://streamtp22.com/global1.php?stream=goltv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",13:30 - LaLiga: Levante vs Real Madrid
+https://streamtp22.com/global1.php?stream=espnplus1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",13:30 - LaLiga: Sevilla vs Villarreal
+https://streamtp22.com/global1.php?stream=espnplus3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",16:00 - Copa Libertadores: Racing Club vs Vélez Sarsfield
+https://streamtp22.com/global1.php?stream=disney7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",19:00 - Liga MX: Puebla vs Pachuca
+https://streamtp22.com/global1.php?stream=tudn_usa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",19:00 - Liga MX: Guadalajara vs Necaxa
+https://streamtp22.com/global1.php?stream=universo_usa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",20:00 CONCACAF Central American Cup: Alajuelense vs Motagua
+https://voodc.com/player/d/hYOGkp2KmoWEe4qYucbjvcC2t5acrtLCuLnN1LqrmoSEha3K2o2dj8yAiqLcx9W5q6-4rNXLnoeLfYystKu2oIC2v8zRns63v7mZyd7G1rmFfoaRnIe8tbqryMqhiqCHig__/t7mDlZmfoYGJg4OSo4yhiol-h5mchLbC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",21:00 - Liga MX: Juárez vs Pumas UNAM
+https://streamtp22.com/global1.php?stream=fox_deportes_usa
