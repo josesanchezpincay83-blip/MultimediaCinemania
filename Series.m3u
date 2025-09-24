@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-logo="https://n9.cl/t2ecy" group-title="Task",T1:E1 «Task»
+#EXTINF:-1 tvg-logo="https://n9.cl/t2ecy" group-title="Task",T1:E1 «Task» 1
 https://lamovie.link/embed-ewms3i8l5jei.html
 #EXTINF:-1 tvg-logo="https://n9.cl/t2ecy" group-title="Task",T1:E2 «Task»
 https://lamovie.link/embed-clfde51umod4.html
@@ -629,3 +629,4 @@ https://lamovie.link/embed-txxcjbr2p8ix.html
 https://lamovie.link/embed-gjqdq6cg03tu.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xz04t3N.jpeg" group-title="Stranger Things",T4:E9 «El huésped»
 https://lamovie.link/embed-ucd7jgt56dht.html
+
