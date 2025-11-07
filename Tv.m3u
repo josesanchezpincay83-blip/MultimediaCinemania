@@ -1,12 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jHAdS2ZslMbAeAPCsiDJe3LCxS4.jpg" group-title="ANIMACIÒN",LEGO Frozen: Operation Puffins
+https://ico3c.com/bkg/ji8blfyx5s1d
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pblXp7qiRivl0gYUeIsaus8IcJA.jpg" group-title="COMEDIA",Mirreyes Contra Godínez: Las Vegas
-https://ico3c.com/3mzpqra3oii9
+https://ico3c.com/bkg/3mzpqra3oii9
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ljeWnqoxhW0CR2QEoIrWDRghSUk.jpg" group-title="DRAMA",Edén
+https://ico3c.com/bkg/qn4qyzqk1lxy
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg" group-title="SUSPENSO/TERROR",It
-https://ico3c.com/g8uj1jjb0god
+https://ico3c.com/bkg/g8uj1jjb0god
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9oERKIVyTWpHNum3STVsAGD4ojz.jpg" group-title="SUSPENSO/TERROR",It: Capitulo 2
-https://ico3c.com/cd7onwkiw81h
+https://ico3c.com/bkg/cd7onwkiw81h
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hBZbQHDWCU8C7IGaWZJtUiHq3SB.jpg" group-title="SUSPENSO/TERROR",Khamaleon
+https://ico3c.com/bkg/6p7t5yr4blej
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/AiyAIRkyGD2R1XK4Jcf9JzLyJ3r.jpg" group-title="SUSPENSO/TERROR",Insane Like Me?
+https://ico3c.com/bkg/8ojfr960sxxd
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dTm6CXCtwgGbpUN1stgVcPKnXDw.jpg" group-title="SUSPENSO/TERROR",Señal De Muertes
+https://ico3c.com/bkg/3ypv4jwdtrp6
+
 
 
 
