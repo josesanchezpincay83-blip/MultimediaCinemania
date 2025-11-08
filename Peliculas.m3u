@@ -2,19 +2,47 @@
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/soZdshVi2nQpCWqQkS8qumUNNqO.jpg" group-title="ACCIÒN",Cazadores Del Fin Del Mundo
 https://ico3c.com/bkg/6dsuj2fgfqfk
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nU1wjVRbtW8gKdlyD9myPOqSFeZ.jpg" group-title="ACCIÒN",En Defensa Del Paraíso
+https://ico3c.com/bkg/gy8skogfsigk
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rmCJCFrEwPC0u0Y1smihwDo4Cf1.jpg" group-title="ACCIÒN",Martin
+https://ico3c.com/bkg/qsjapkiggm5z
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg" group-title="ACCIÒN",Red Right Hand
+https://ico3c.com/bkg/weml3msibhla
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/j1p3h2BYhnOLFWz1P3S2iWDuGNz.jpg" group-title="ACCIÒN",Pandillas De Los Angeles
+https://ico3c.com/bkg/ietc8d74vewr
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/83Gis9pOKCvAdaKXCNChey4IZyL.jpg" group-title="ACCIÒN",Americana
+https://ico3c.com/bkg/2mj5vlf3lxk2
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oK3VLHPVSWpRQYU5oTJNoSmTJ2X.jpg" group-title="AVENTURA/FAMILIA",Nina Y Los Ladrones De Piano
+https://ico3c.com/bkg/wuu6wy7d8uln
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jHAdS2ZslMbAeAPCsiDJe3LCxS4.jpg" group-title="ANIMACIÒN",LEGO Frozen: Operation Puffins
 https://ico3c.com/bkg/ji8blfyx5s1d
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg" group-title="ANIMACIÒN",Mascotas Al Rescate
+https://ico3c.com/bkg/a6b7k3meicsb
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pblXp7qiRivl0gYUeIsaus8IcJA.jpg" group-title="COMEDIA",Mirreyes Contra Godínez: Las Vegas
 https://ico3c.com/bkg/3mzpqra3oii9
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/kTVABjFns9gZ72kOPbtuwnfBeLo.jpg" group-title="COMEDIA",Adultez
 https://ico3c.com/bkg/gn0pjzzact31
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lXumhtgMOxA3aqocplC8YIMwOv8.jpg" group-title="COMEDIA",Los Rose
+https://ico3c.com/bkg/pdhw44hccj4q
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q2nkQ0EnHyniqDPfOKYOGR5vSuW.jpg" group-title="COMEDIA",Amores Compartidos
+https://ico3c.com/bkg/nlntztx15ige
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cZdZCT8PG1UYFPjk11XUUIDfKs3.jpg" group-title="COMEDIA",Parking
+https://ico3c.com/bkg/pvubgcgbhcd1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/j5jngjqK8B5rdfgxMdnvyagKUgI.jpg" group-title="COMEDIA",Maldición Eterna
+https://ico3c.com/bkg/0avkbqyo0jbm
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ljeWnqoxhW0CR2QEoIrWDRghSUk.jpg" group-title="DRAMA",Edén
 https://ico3c.com/bkg/qn4qyzqk1lxy
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lRpGcAYC7cm1QnInz8P3xHvm7cV.jpg" group-title="DRAMA",Mr. K
 https://ico3c.com/bkg/51l4ja3q1m2q
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/urbgEguSGSzbcpzBx2Zd0vCtFNy.jpg" group-title="ROMANCE",Mi Primer Amor De Verano
+https://ico3c.com/bkg/r30jnhll2lh4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/EDJrPeEUPobpERfGZWuvV5jXbf.jpg" group-title="ROMANCE",Una Navidad Única
+https://ico3c.com/bkg/dw7q6folsic8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/sSrj4lnhrb113DOPEPTaO2jaDk3.jpg" group-title="SUSPENSO/TERROR",It
 https://ico3c.com/bkg/g8uj1jjb0god
@@ -42,6 +70,26 @@ https://ico3c.com/bkg/w9lahev4yc15
 https://ico3c.com/bkg/w55moth9kzkt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qYCA7XkLRUNS1DC7c8ehtj6W4XM.jpg" group-title="SUSPENSO/TERROR",Regalo Maldito
 https://ico3c.com/bkg/stu08m8qsadi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/6yPbPNCpUQUpTFB1PHWhfYWdjEZ.jpg" group-title="SUSPENSO/TERROR",El Trote
+https://ico3c.com/bkg/qjb0xzhz4ixd
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jNBxGBNeXbG8WBKqBHtC5HjizB0.jpg" group-title="SUSPENSO/TERROR",El Elixir De La Inmortalidad
+https://ico3c.com/bkg/r26nabo48yy6
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qtFnBCvCldbN0R9JFMF83Kv5uPY.jpg" group-title="SUSPENSO/TERROR",Hotel Dunsmuir
+https://ico3c.com/bkg/92gik1ityi94
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/w5c0QKF2dvGbsTbRdoYte5N9Fn0.jpg" group-title="SUSPENSO/TERROR",Cabras De La Muerte
+https://ico3c.com/bkg/alqo3q5zzdfo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rSOYVDmg4VFoVuZzu4941X2s1fO.jpg" group-title="SUSPENSO/TERROR",Carretera Forestal 825
+https://ico3c.com/bkg/6ad829d76nhb
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/htH3kWAEEW0RLhgA2P8LTBea3mk.jpg" group-title="SUSPENSO/TERROR",No Tengas Miedo A La Oscuridad
+https://ico3c.com/bkg/yvfmlex9qowf
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/odZQRpXqu8t808P1nLdss9GAFkn.jpg" group-title="SUSPENSO/TERROR",Asesinos Sadicos 2: Hermanos Hambrientos
+https://ico3c.com/bkg/cr9fy8m2dehy
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/eq9MejualTf0lBWi1ZoJmwwqpPd.jpg" group-title="SUSPENSO/TERROR",Ataque 13
+https://ico3c.com/bkg/hqjtwpf26mxd
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/htH3kWAEEW0RLhgA2P8LTBea3mk.jpg" group-title="ANIME",Ghost In The Shell 2.0
+https://ico3c.com/bkg/5tba4ymopajn
+
 
 
 
