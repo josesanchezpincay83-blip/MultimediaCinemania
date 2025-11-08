@@ -1,24 +1,81 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",AFC Champions League Elite: Al Shorta vs Al Ittihad
-https://streamvv11.lat/global1.php?channel=espn2mx
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",AFC Champions League Elite: Al-Ahli vs Al Gharafa
-https://streamvv11.lat/global1.php?channel=espn2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",Serie A: Cremonese vs Udinese
-https://streamvv11.lat/global1.php?channel=espn
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",Premier League: West Ham United vs Brentford
-https://streamvv11.lat/global1.php?channel=espn
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",LaLiga: Deportivo Alavés vs Valencia
-https://streamvv11.lat/global1.php?channel=espn3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",Superliga Argentina: Tigre vs Barracas Central
-https://streamvv11.lat/global1.php?channel=tntar
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",Superliga Argentina: Deportivo Riestra vs Instituto
-https://streamvv11.lat/global1.php?channel=espnpremium
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",Superliga Argentina: Atlético Tucumán vs San Lorenzo
-https://streamvv11.lat/global1.php?channel=espnpremium
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",Liga BetPlay: Medellín vs Santa Fe
-https://streamvv11.lat/play.php?channel=winplus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yda6f1o.jpeg" group-title="EVENTOS DEPORTIVOS",Copa Centroamericana: Cartaginés vs Olimpia
-https://streamtp22.com/global1.php?stream=disney16
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",08:00 - Serie A: Como vs Cagliari
+https://streamtpmedia.com/global1.php?stream=disney9
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",08:00 - Serie A: Lecce vs Hellas Verona
+https://streamtpmedia.com/global1.php?stream=disney10
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",08:30 - Bundesliga: Hamburger SV vs Borussia Dortmund
+https://streamtpmedia.com/global1.php?stream=disney12
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",08:30 - Bundesliga: Bayer Leverkusen vs Heidenheim
+https://streamtpmedia.com/global1.php?stream=disney13
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",08:30 - Bundesliga: Union Berlin vs Bayern München
+https://streamtpmedia.com/global1.php?stream=disney14
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",08:30 - Bundesliga: Hoffenheim vs RB Leipzig
+https://streamtpmedia.com/global1.php?stream=disney15
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",08:40 - Estados Unidos Sub-17 vs Tayikistán Sub-17
+https://streamtpmedia.com/global1.php?stream=fox_2_usa
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",09:00 - Premier League: Everton vs Fulham
+https://streamtpmedia.com/global1.php?stream=disney16
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",09:00 - Premier League: West Ham United vs Burnley
+https://streamtpmedia.com/global1.php?stream=disney17
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",09:10 - LaLiga: Sevilla vs Osasuna
+https://streamtpmedia.com/global1.php?stream=disney19
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",09:30 - Primeira Liga: Alverca vs Rio Ave
+https://streamtpmedia.com/global1.php?stream=goltv
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",10:00 - Ligue 1: Olympique Marseille vs Brest
+https://streamtpmedia.com/global1.php?stream=disney2
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",11:00 - Serie A: Juventus vs Torino
+https://streamtpmedia.com/global1.php?stream=disney3
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",11:00 - Süper Lig: Antalyaspor vs Besiktas
+https://streamtpmedia.com/global1.php?stream=disney4
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",11:30 - Premier League: Sunderland vs Arsenal
+https://streamtpmedia.com/global1.php?stream=disney5
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",11:30 - Bundesliga: Borussia M'gladbach vs Köln
+https://streamtpmedia.com/global1.php?stream=disney6
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",11:30 - LaLiga: Atlético Madrid vs Levante
+https://streamtpmedia.com/global1.php?stream=espndeportes
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",12:00 - Ligue 1: Le Havre vs Nantes
+https://streamtpmedia.com/global1.php?stream=disney7
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",12:00 - Primera División: Unión Española vs Colo-Colo
+https://streamtpmedia.com/global1.php?stream=tntsportschile
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",13:30 - Bundesliga 2: Kaiserslautern vs Hertha BSC
+https://streamtpmedia.com/global1.php?stream=disney9
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",13:40 - Serie A: Parma vs Milan
+https://streamtpmedia.com/global1.php?stream=disney10
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",14:00 - Premier League: Chelsea vs Wolverhampton Wanderers
+https://streamtpmedia.com/global1.php?stream=disney11
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",14:00 - LaLiga: Espanyol vs Villarreal
+https://streamtpmedia.com/global1.php?stream=disney12
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",14:00 - Liga Profesional: Racing Club vs Defensa y Justicia
+https://streamtpmedia.com/global1.php?stream=disney13
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",14:00 - Liga Profesional: Huracán vs Newell's Old Boys
+https://streamtpmedia.com/global1.php?stream=tntsports
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",14:00 - Ligue 1: Monaco vs Lens
+https://streamtpmedia.com/global1.php?stream=disney14
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",14:30 - Primeira Liga: Santa Clara vs Sporting CP
+https://streamtpmedia.com/global1.php?stream=goltv
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",15:10 - Primera A: Fortaleza CEIF vs Junior
+https://streamtpmedia.com/global1.php?stream=disney15
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",17:00 - Liga MX: Guadalajara vs Monterrey
+https://streamtpmedia.com/global1.php?stream=eventos1
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",17:00 - Liga MX: Tigres UANL vs Atlético San Luis
+https://streamtpmedia.com/global1.php?stream=universo_usa
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",17:20 - Primera A: Atlético Nacional vs Rionegro Águilas
+https://streamtpmedia.com/global1.php?stream=winplus
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",18:00 - Serie A: LDU Quito vs Libertad
+https://streamtpmedia.com/global1.php?stream=ecdf
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",18:30 - Liga Profesional: Unión Santa Fe vs Barracas Central
+https://streamtpmedia.com/global1.php?stream=tntsports
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",18:30 - Liga Profesional: San Martín San Juan vs Lanús
+https://streamtpmedia.com/global1.php?stream=espnpremium
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",19:00 - League Soccer: Inter Miami vs Nashville SC
+https://streamtpmedia.com/global1.php?stream=mls1es
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",19:00 - Liga MX: Toluca vs América
+https://streamtpmedia.com/global1.php?stream=tudn_usa
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",19:30 - Primera A: Atlético Bucaramanga vs La Equidad
+https://streamtpmedia.com/global1.php?stream=winplus
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS",21:00 - Liga MX: Cruz Azul vs Pumas UNAM
+https://streamtpmedia.com/global1.php?stream=tudn_usa
+
 
 
